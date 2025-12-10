@@ -1,6 +1,6 @@
 # Remote Development Environment Setup Guide
 
-This guide provides step-by-step instructions for setting up a remote development environment using Docker and connecting to it via SSH. This setup is compatible with JetBrains Toolbox for remote development.
+This guide provides step-by-step instructions for quickly setting up a remote development environment using Docker and connecting to it via SSH. This setup is compatible with JetBrains Toolbox for remote development.
 
 ## Prerequisites
 
