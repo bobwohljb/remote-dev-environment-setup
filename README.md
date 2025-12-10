@@ -209,15 +209,12 @@ ssh remote-dev
 ## Step 7: Connect Using JetBrains Toolbox
 
 1. Open JetBrains Toolbox
-2. Select "Connect to SSH"
-3. Enter the SSH configuration:
-   - Host: `remote-dev` (if you set up the SSH config) or `localhost`
-   - Port: 2222 (if not using SSH config)
-   - User: dev
-   - Authentication: Key pair
-   - Private key file: `~/.ssh/id_ed25519_remote`
+2. Select "SSH from the dropdown"
+3. Click "New SSH Connection"
+4. Enter "remote-dev"
+5. Follow prompts for password.
 
-4. Connect and select the IDE you want to use
+6. Connect and select the IDE you want to install and use
 
 ## Troubleshooting
 
